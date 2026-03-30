@@ -1,0 +1,21 @@
+{
+  "name": "BFR — Bulk File Renamer",
+  "short_name": "BFR",
+  "description": "Free, fully offline bulk file renamer. 15 rename modules, dark/light mode, no upload required — runs entirely in your browser.",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#0f0e0d",
+  "theme_color": "#f5a623",
+  "orientation": "any",
+  "lang": "en",
+  "icons": [
+    {
+      "src": "./icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ],
+  "categories": ["productivity", "utilities"],
+  "screenshots": []
+}
